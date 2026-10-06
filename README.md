@@ -52,10 +52,10 @@
 
 ###
 
-<div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/gabipinheiro-dev/gabipinheiro-dev/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/gabipinheiro-dev/gabipinheiro-dev/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/gabipinheiro-dev/gabipinheiro-dev/activity-graph-output/activity-graph.svg?radius=16&theme=cotton-candy&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabipinheiro-dev&show_icons=true&theme=synthwave&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabipinheiro-dev&layout=compact&langs_count=5&theme=synthwave&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabipinheiro-dev&radius=16&theme=cotton-candy&area=true&hide_border=true" height="300" alt="activity graph" />
 </div>
 
 ###

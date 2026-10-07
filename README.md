@@ -56,7 +56,7 @@
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=gabipinheiro-dev&show_icons=true&theme=synthwave&hide_border=true&hide=issues" height="150" alt="stats graph" />
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabipinheiro-dev&layout=compact&langs_count=5&theme=synthwave&hide_border=true" alt="languages graph" />
   <br>
-  <img src="https://raw.githubusercontent.com/gabipinheiro-dev/gabipinheiro-dev/activity-graph-output/activity-graph.svg" height="240" alt="activity graph" />
+  <img src="https://raw.githubusercontent.com/gabipinheiro-dev/gabipinheiro-dev/activity-graph-output/activity-graph.svg" height="245" alt="activity graph" />
 </div>
 
 ###

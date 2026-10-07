@@ -14,6 +14,19 @@
 
 ###
 
+<h2 data-importer="text" align="left">Stats</h2>
+
+###
+
+<div align="left">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=gabipinheiro-dev&show_icons=true&theme=synthwave&hide_border=true&hide=issues" height="140" alt="stats graph" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabipinheiro-dev&layout=compact&langs_count=5&theme=synthwave&hide_border=true" alt="languages graph" />
+  <br>
+  <img src="https://raw.githubusercontent.com/gabipinheiro-dev/gabipinheiro-dev/activity-graph-output/activity-graph.svg" height="241" alt="activity graph" />
+</div>
+
+###
+
 <h2 data-importer="text" align="left">Techs</h2>
 
 ###
@@ -45,18 +58,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-
-###
-
-<h2 data-importer="text" align="left">Stats</h2>
-
-###
-
-<div align="left">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=gabipinheiro-dev&show_icons=true&theme=synthwave&hide_border=true&hide=issues" height="140" alt="stats graph" />
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabipinheiro-dev&layout=compact&langs_count=5&theme=synthwave&hide_border=true" alt="languages graph" />
-  <br>
-  <img src="https://raw.githubusercontent.com/gabipinheiro-dev/gabipinheiro-dev/activity-graph-output/activity-graph.svg" height="241" alt="activity graph" />
-</div>
-
-###

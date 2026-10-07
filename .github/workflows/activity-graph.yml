@@ -18,6 +18,7 @@ jobs:
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
           username: ${{ github.repository_owner }}
+          options: radius=5
           output_path: dist/activity-graph.svg
 
       - name: Publish to branch
